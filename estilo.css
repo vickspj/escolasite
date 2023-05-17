@@ -1,0 +1,6 @@
+h1, h2, h3{
+    color:aqua; text-align-last:auto;
+}
+body {
+    background-color: blueviolet(111,133,167);
+}
